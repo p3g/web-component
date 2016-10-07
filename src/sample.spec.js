@@ -1,0 +1,1 @@
+var Code = require('code'),expect = Code.expect;describe("A Sample test case", function ( ) {  it("should work as expected", function () {     expect(true).to.be.equal(true);  });} );
